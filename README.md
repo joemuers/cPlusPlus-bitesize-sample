@@ -18,10 +18,13 @@ The coordinate range is between 0 and 19 on x and 0 to 9 on y, and the output sh
 
 For example, the input string “(10,10) – (10,0), (0,4) – (19,4)” might produce the following output:
 
+
           X     
           X       
           X       
-          X       
+          X 
+
+          X
 XXXXXXXXXXXXXXXXXXX       
           X     
           X      
