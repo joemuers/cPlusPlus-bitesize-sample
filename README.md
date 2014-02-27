@@ -23,11 +23,11 @@ For example, the input string “(10,10) – (10,0), (0,4) – (19,4)” might p
           X       
           X       
 XXXXXXXXXXXXXXXXXXX       
+          X     
           X       
           X       
-          X       
-          X       
-          X       
+          X  
+          X
      
 
 However, you may wish to consider using other ASCII characters such as ‘/’, ‘_’ and ‘|’ to produce a nicer output.
