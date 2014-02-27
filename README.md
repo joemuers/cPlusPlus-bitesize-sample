@@ -5,7 +5,7 @@ This is just a simple, bite-sized project to give prospective employers an easil
 Nothing revolutionary here.  This is a small project that I was asked to do a couple of years ago in order to secure a job interview.  Struck me that what was useful as a code sample for one employer could be useful to another - so, decided to put it up here just for the sake of having something publicly available but small enough for people to browse through in 10 minutes or so.
 
 Below is the brief that I was sent:  
-
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
 
 Please spend around 3 hours on the following task:
@@ -28,6 +28,7 @@ XXXXXXXXXXXXXXXXXXX
           X       
           X       
           X       
+     
 
 However, you may wish to consider using other ASCII characters such as ‘/’, ‘_’ and ‘|’ to produce a nicer output.
 
