@@ -24,9 +24,9 @@ For example, the input string “(10,10) – (10,0), (0,4) – (19,4)” might p
           X       
 XXXXXXXXXXXXXXXXXXX       
           X     
-          X       
-          X       
-          X  
+          X      
+          X      
+          X 
           X
      
 
